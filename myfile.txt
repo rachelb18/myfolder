@@ -1,1 +1,8 @@
 Hello Nov 28th, Lesson 2
+
+git add
+
+git commit -m "addin cont"
+
+git push
+
